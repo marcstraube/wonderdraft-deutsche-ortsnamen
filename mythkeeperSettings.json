@@ -1,0 +1,41 @@
+{
+  "basicInformation": {
+    "name": "Deutsche Ortsnamen",
+    "description": "Create realistic german names for your settlements and cities. With the release of version 0.2 there are 17,400 possible permutations.",
+    "version": "This is auto replaced",
+    "author": {
+      "exists": true,
+      "name": "Marc Straube",
+      "mail": "email@marcstraube.de",
+      "discord": "nerdy_by_nature",
+      "url": "https://github.com/marcstraube",
+      "donationURL": "https://ko-fi.com/nerdybynature"
+    },
+    "distributor": {
+      "exists": true,
+      "name": "Marc Straube",
+      "mail": "email@marcstraube.de",
+      "discord": "nerdy_by_nature",
+      "url": "https://github.com/marcstraube",
+      "donationURL": "https://ko-fi.com/nerdybynature"
+    },
+    "commercialUse": true,
+    "commercialURL": false,
+    "license": {
+      "hasLicense": true,
+      "type": "CC BY 4.0",
+	  "localFile": true,
+	  "externalLink": false,
+	  "commentary": false
+    },
+    "tags": [
+      "Name Generators",
+      "Namebases",
+      "Settlements",
+      "Towns",
+      "Cities",
+      "German",
+      "Deutsch"
+    ]
+  }
+}
