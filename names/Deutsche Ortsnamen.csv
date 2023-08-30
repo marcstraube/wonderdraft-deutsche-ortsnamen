@@ -10,7 +10,7 @@
 %sbrecht,
 %sbronn,
 %sbruch,
-%sbrueck,
+%sbrück,
 %sbrunn,
 %sburg,
 %sdorf,
@@ -40,8 +40,8 @@
 %shofen,
 %shorn,
 %shoven,
-%shuette,
-%shuetten,
+%shütte,
+%shütten,
 %shöfen,
 %skammer,
 %skirch,
@@ -55,10 +55,10 @@
 %smarkt,
 %smoor,
 %smoos,
-%smuehl,
-%smuehle,
-%smuende,
-%smuenden,
+%smühl,
+%smühle,
+%smünde,
+%smünden,
 %snach,
 %srad,
 %sraden,
@@ -78,7 +78,7 @@
 %ssiefen,
 %ssitz,
 %sstadt,
-%sstaetten,
+%sstätten,
 %sstedt,
 %sstedten,
 %sstein,
@@ -121,7 +121,7 @@
 ,Donner
 ,Dorn
 ,Drachen
-,Droeden
+,Dröden
 ,Dunkel
 ,Eber
 ,Ebers
@@ -144,9 +144,9 @@
 ,Froh
 ,Fuchs
 ,Grafen
-,Grosz
-,Groszen
-,Guether
+,Groß
+,Großen
+,Güthers
 ,Hahn
 ,Hamen
 ,Hammel
@@ -176,7 +176,7 @@
 ,Kirch
 ,Kirchen
 ,Kloster
-,Koenigs
+,Königs
 ,Kohl
 ,Kotten
 ,Kran
@@ -199,8 +199,8 @@
 ,Mittel
 ,Mitten
 ,Mors
-,Muehl
-,Muehlen
+,Mühl
+,Mühlen
 ,Nebel
 ,Neu
 ,Nickel
@@ -218,8 +218,8 @@
 ,Regens
 ,Rosen
 ,Ruchen
-,Ruessel
-,Ruessels
+,Rüssel
+,Rüssels
 ,Scheider
 ,Scheuer
 ,Schild
@@ -228,7 +228,7 @@
 ,Schmal
 ,Schmalen
 ,Schrot
-,Schuetzen
+,Schützen
 ,Schul
 ,Schutz
 ,Schwan
@@ -244,7 +244,7 @@
 ,Stein
 ,Still
 ,Streit
-,Sued
+,Süd
 ,Tann
 ,Tannen
 ,Tapfer
@@ -257,10 +257,11 @@
 ,Vatten
 ,Vieh
 ,Volkes
-,Waehr
+,Währ
 ,Wage
 ,Wages
 ,Wasser
+,Wehr
 ,Wein
 ,Weit
 ,West

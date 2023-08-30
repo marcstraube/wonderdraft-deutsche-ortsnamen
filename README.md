@@ -10,7 +10,7 @@ settlements and cities.
 
 ![Deutsche Ortsnamen Namensgenerator für Wonderdraft](metafiles/preview.png "'Deutsche Ortsnamen Namensgenerator für Wonderdraft' by strassenweb.de licensed under CC BY 3.0")
 
-With the release of version 0.2 there are 17,400 possible permutations.
+With the release of version 0.2 there are 17,500 possible permutations.
 
 
 ## Installation
